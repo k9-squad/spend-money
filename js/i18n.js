@@ -1,0 +1,45 @@
+// All static UI strings, in our two languages of choice.
+const I18N = {
+  en: {
+    brandTitle: "Spend Elon's Money",
+    langLabel: "中文",
+    moneyLeft: "Money remaining",
+    spentPre: "Spent so far:",
+    reset: "Start over",
+    introLead: "Right then. Mr Musk has, in a moment of weakness, handed you his entire fortune.",
+    introSub: "A frankly obscene <strong>$1.3 trillion</strong>. Do try to get rid of it responsibly. Or don't. We're not your accountant.",
+    receiptShop: "MUSK-MART",
+    receiptAddr: "1 Tesla Road · Final Sale · No Refunds Whatsoever",
+    receiptEmpty: "Nothing yet. The trolley is tragically empty.",
+    itemsCount: "Items",
+    grandTotal: "TOTAL",
+    receiptThanks: "Thank you for your patronage. Mr Musk did not feel a thing.",
+    footer: "A satirical toy. No billionaires were consulted, harmed, or reimbursed.",
+    buy: "Buy",
+    inCart: "in trolley",
+    broke: "Awfully sorry — you can't afford that one. Do try something cheaper.",
+    cashier: "Cashier: Grimsby (he's having a day)",
+    spentAll: "Magnificent. You've spent the lot. Mr Musk salutes you."
+  },
+  zh: {
+    brandTitle: "花掉马斯克的钱",
+    langLabel: "EN",
+    moneyLeft: "剩余金额",
+    spentPre: "已花费：",
+    reset: "重新开始",
+    introLead: "好了。马斯克先生一时心软，把全部身家都交给了你。",
+    introSub: "整整 <strong>1.3 万亿美元</strong>，多得有些不像话。请尽量负责任地把它花光。或者别负责，反正我们又不是你的会计。",
+    receiptShop: "马斯克超市",
+    receiptAddr: "特斯拉路 1 号 · 清仓特卖 · 概不退换",
+    receiptEmpty: "购物车空空如也，令人心碎。",
+    itemsCount: "件数",
+    grandTotal: "合计",
+    receiptThanks: "感谢惠顾。马斯克先生毫无知觉。",
+    footer: "一个讽刺小玩具。没有任何亿万富翁在制作过程中被征询、伤害或补偿。",
+    buy: "购买",
+    inCart: "在购物车",
+    broke: "万分抱歉——这件你买不起了。不如挑个便宜点的。",
+    cashier: "收银员：格林斯比（他今天不太顺）",
+    spentAll: "壮哉。你把钱全花光了。马斯克先生向你致敬。"
+  }
+};
