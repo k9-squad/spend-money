@@ -8,9 +8,15 @@ Deadpan, faintly British, and entirely useless. Just as intended.
 
 ## Features
 
-- 🛒 **One-tap buying** — click a card to buy, tap the red minus to refund.
-- 🧾 **Live receipt** — a realistic till receipt builds at the bottom of the page,
-  with quick +/− steppers to adjust quantities.
+- 🛒 **One-tap buying** — click a card to buy, tap the minus to refund.
+- 🧾 **Receipt bottom sheet** — a realistic till receipt lives in a draggable
+  sheet: flick it open or closed (1:1 tracking, rubber-banding, momentum
+  projection, interruptible springs), or just tap the bar.
+- 💫 **Fluid, Apple-style motion** — the balance spring-counts to its new value,
+  translucent `backdrop-filter` chrome, and a large-title balance that condenses
+  into the top bar on scroll.
+- ♿ **Respects your settings** — `prefers-reduced-motion`,
+  `prefers-reduced-transparency`, and `prefers-contrast` all get fallbacks.
 - 📱 **Mobile-first** responsive layout.
 - 🌗 **Dark mode** (follows your system preference on first visit, toggle to override).
 - 🌐 **English / 中文** switch.
