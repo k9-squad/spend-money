@@ -19,7 +19,8 @@ const I18N = {
     inCart: "in trolley",
     broke: "Awfully sorry — you can't afford that one. Do try something cheaper.",
     cashier: "Cashier: Grimsby (he's having a day)",
-    spentAll: "Magnificent. You've spent the lot. Mr Musk salutes you."
+    spentAll: "Magnificent. You've spent the lot. Mr Musk salutes you.",
+    sheetLabel: "Receipt"
   },
   zh: {
     brandTitle: "花掉马斯克的钱",
@@ -40,6 +41,7 @@ const I18N = {
     inCart: "在购物车",
     broke: "万分抱歉——这件你买不起了。不如挑个便宜点的。",
     cashier: "收银员：格林斯比（他今天不太顺）",
-    spentAll: "壮哉。你把钱全花光了。马斯克先生向你致敬。"
+    spentAll: "壮哉。你把钱全花光了。马斯克先生向你致敬。",
+    sheetLabel: "账单"
   }
 };
